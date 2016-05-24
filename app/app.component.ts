@@ -8,6 +8,7 @@ import { HeroDetailComponent } from './hero-detail.component';
 
 @Component({
   selector: 'my-app',
+  styleUrls: ['app/app.component.css'],
   template: `
     <h1>{{title}}</h1>
     <nav>
